@@ -325,7 +325,7 @@ footer{
 }
 
 footer .socials{
-  margin-left: 28rem;
+  margin-left: 30rem;
   margin-top: -70px;
   display: flex;
   align-items: center;
@@ -386,6 +386,15 @@ footer a:hover{
   color: #fff;
   font-size: 0.8rem;
   text-align: center;
+}
+
+.footer-logo h2 {
+  color: #fff;
+}
+
+.email {
+  margin-left: -70px;
+  color: #fff;
 }
 
 @media (width < 900px){
